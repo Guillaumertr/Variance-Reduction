@@ -45,6 +45,8 @@ Change the probability distribution of simulated paths to favor rare but signifi
 
 - Pages, G. **Introduction to Numerical Probabilities for Finance**
 
+---
+
 ## 👤 Author
 
 👨‍💻 Guillaume Routier  
