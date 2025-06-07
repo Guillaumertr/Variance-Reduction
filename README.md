@@ -17,11 +17,8 @@ This notebook showcases essential **Monte Carlo variance reduction methods** use
 ### Antithetic Variates
 Generate pairs of negatively correlated paths by inverting Brownian increments. Averaging results from each pair reduces variance.
 
-### Control Variates
+### Control Variates (naive, practitionner, adaptative)
 Leverage the known price of a correlated instrument (like the analytical Black-Scholes price) to adjust the Monte Carlo estimator.
-
-### Importance Sampling
-Change the probability distribution of simulated paths to favor rare but significant events, then correct with a likelihood ratio.
 
 ---
 
