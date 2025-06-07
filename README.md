@@ -12,7 +12,7 @@ This notebook showcases essential **Monte Carlo variance reduction methods** use
 
 ---
 
-## 🛠Implemented Techniques
+## Implemented Techniques
 
 ### Antithetic Variates
 Generate pairs of negatively correlated paths by inverting Brownian increments. Averaging results from each pair reduces variance.
